@@ -1,0 +1,22 @@
+{
+  "name": "betterVoicemail",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local": "NODE_ENV=local nodemon ./bin/local.js"
+  },
+  "author": "Grant Hunter",
+  "license": "ISC",
+  "dependencies": {
+    "tracer": "^0.7.3",
+    "express": "^4.10.6",
+    "twilio": "^1.10.0",
+    "body-parser": "^1.10.0",
+    "mysql": "^2.5.4",
+    "cors": "^2.5.2"
+  },
+  "devDependencies": {
+    "request": "^2.51.0"
+  }
+}
