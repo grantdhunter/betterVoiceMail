@@ -14,7 +14,8 @@
     "twilio": "^1.10.0",
     "body-parser": "^1.10.0",
     "mysql": "^2.5.4",
-    "cors": "^2.5.2"
+    "cors": "^2.5.2",
+    "node-gcm": "^0.9.13"
   },
   "devDependencies": {
     "request": "^2.51.0"

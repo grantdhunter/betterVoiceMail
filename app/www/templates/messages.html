@@ -1,0 +1,9 @@
+<ion-view view-title="Messages">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="message in Messages" href="#/app/messages/{{message.id}}">
+        From:{{message.fromNumber}}, at: {{message}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

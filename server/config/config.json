@@ -18,7 +18,8 @@
             "accountSid": "AC7ca2c93573f656300bd8f17672dffac9",
             "authToken": "80862f3d6052597469a11439d5ac1345"
         },
-        "defaultWelcomeMessage": "Hello, you have reached #'s voicemail. Please leave a message."
+        "defaultWelcomeMessage": "Hello, you have reached #'s voicemail. Please leave a message.",
+        "gcmKey": "IzaSyB5Z-Lfkq7DmGu5gfH5csPVrQk18MnXXzY"
     },
     "production": {
         "username": "root",
